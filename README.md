@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://twitter.com/jessy-martinez-72b70a195" target="blank"><img align="center" 
+<a href="https://linkedin.com/in/jessy-martinez-72b70a195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jessy-martinez-72b70a195" height="30" width="40" /></a>
 
 [![Jessy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vamonosraza&theme=dracula)](https://github.com/Vamonosraza/github-readme-stats)
 
